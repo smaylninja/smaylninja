@@ -1,8 +1,4 @@
 ## Hi there 👋💚
-<p align="center">
-    <hr />
-    <img src="https://count.getloli.com/@:smaylninja?theme=capoo-2" alt=":smaylninja" />
-</p>
 
 ### :hammer_and_wrench: Languages and Tools :
 <p align="center">
