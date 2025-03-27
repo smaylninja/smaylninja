@@ -28,7 +28,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://t.me/@nobiscum_deus67" style="text-decoration: none;">
+      <a href="https://t.me/nobiscum_deus67" style="text-decoration: none;">
         <img src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/telegram.svg" width="40" height="40" alt="Telegram">
         <br>
         <span style="font-family: Arial, sans-serif; color: #000; font-size: 18px;">@nobiscum_deus67</span>
