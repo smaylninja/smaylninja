@@ -38,5 +38,6 @@
 </table>
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25" /> My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=smaylninja&theme=dark&background=000000)](https://git.io/streak-stats)
 
