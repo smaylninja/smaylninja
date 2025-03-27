@@ -18,7 +18,20 @@
 </p>
 
 ### 💬 Socials :
-<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="60" height="60" align="left" style="transform: scaleX(-1)"/>
+<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="60" height="60" align="right"/>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://t.me/@nobiscum_deus67" style="text-decoration: none;">
+        <img src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/telegram.svg" width="40" height="40" alt="Telegram">
+        <br>
+        <span style="font-family: Arial, sans-serif; color: #000; font-size: 18px;">@nobiscum_deus67</span>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=smaylninja&theme=dark&background=000000)](https://git.io/streak-stats)
