@@ -44,5 +44,8 @@
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25" /> My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=smaylninja&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smaylninja&theme=dark&background=000000" width="400" />
+  <a href="https://leetcode.com/smaylninja/"><img src="https://leetcard.jacoblin.cool/smaylninja?theme=dark" width="400" /></a>
+</div>
 
