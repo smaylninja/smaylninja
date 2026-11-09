@@ -8,7 +8,7 @@
 ### I'm Vue Frontend Developer:
 - #### Have the bachelor degree in Computer Science SUSU 🎓
 - #### Practice programming craft in Leetcode 📝
-- #### Read Computer Scrience literature 📖
+- #### Read Computer Science literature 📖
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" height="25" /> Languages and Tools :
 <p align="center">
